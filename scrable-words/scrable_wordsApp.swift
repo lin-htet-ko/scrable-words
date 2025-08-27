@@ -11,7 +11,7 @@ import SwiftUI
 struct scrable_wordsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GametView()
         }
     }
 }
